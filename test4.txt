@@ -1,0 +1,3 @@
+int x =20;
+System.out.println(x);
+int a = 60;
